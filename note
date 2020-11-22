@@ -1,0 +1,6 @@
+STDIN_FILENO		STDIN_FILENO		basic input/output			read/write
+stdin				stdout				getc/putc
+
+
+
+
